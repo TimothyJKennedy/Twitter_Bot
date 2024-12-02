@@ -3,11 +3,11 @@ import time
 import random
 
 # Tweepy API credentials
-api_key = "baNcvnEXK5B1ccdZYViryHKsD"
-api_secret = "mhejPMc6OToQFE8zbclg8dyFAwgSWHCTSw9o7CkUcWsT8rNv9N"
-bearer_token = "AAAAAAAAAAAAAAAAAAAAABkLxQEAAAAAU%2FI19iH1kIGACeBLgsIfKc7txm4%3DAEmcywatGqkHwtMO3v61Xw7TdaintubDy1pTxQ32QkRJBSQ4X6"
-access_token = "1511771539938717702-r26zFquOZoCnQGmI74W5gAswwH26sd"
-access_token_secret = "jTvHglBn33s3P1ki8pbzJs9tzeNPugcnHwyd5zPbq3rqo"
+api_key = "***********************"
+api_secret = "****************************************************"
+bearer_token = "****************************************************************************************************************"
+access_token = "**********************************************"
+access_token_secret = "******************************************"
 
 # Set up Tweepy client
 client = tweepy.Client(bearer_token, api_key, api_secret, access_token, access_token_secret)
